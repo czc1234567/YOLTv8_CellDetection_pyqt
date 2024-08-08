@@ -8,12 +8,15 @@
 本文的思路借鉴了YOLT，但是YOLT是18年的算法，基础YOLOv2构建，本文代码适配v8、v9，还基于此设计了OBB旋转框，目标分割的版本，支持检测视频和目标跟踪
 本文对nms算法进行了改进
 针对本文的特殊思路，设计了新的iou计算方式
-![image](https://github.com/user-attachments/assets/5c3de8ae-9454-4f10-85e7-2a881800a313)
-![image](https://github.com/user-attachments/assets/e59b30a1-aed3-4076-a697-4d37834191e5)
+![Alt Text](project_img/img.png)  ![Alt Text](project_img/prediction_visual.png)
 
 
-![fcd87a6115210915040ef19c63f0d86](https://github.com/user-attachments/assets/27ada14e-d53b-4183-bb53-c423d679c371)
-![image](https://github.com/user-attachments/assets/61f08526-8190-4c6a-84aa-4af4fdfff850)
+![Alt Text](project_img/device.png)
+![Alt Text](project_img/1723098587336.jpg)
+
+
+
+
 
 
 
