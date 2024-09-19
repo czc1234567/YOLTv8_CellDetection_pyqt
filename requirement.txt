@@ -34,7 +34,7 @@ labelme==5.5.0
 lapx==0.5.9.post1
 lazy_loader==0.4
 lxml==5.2.2
-malaria==1.0.5
+malaria==1.0.2
 MarkupSafe==2.1.5
 matplotlib==3.7.5
 matplotlib-inline==0.1.7
